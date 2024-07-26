@@ -36,7 +36,10 @@ Este repositório contém os projetos de validação de email e CPF desenvolvido
 * Caso deixe vazio irá aparecer um aviso em um pop-up "O campo está vazio".
 * Caso você coloque letras aleatórias, a mensagem que irá aparecer é "Coloque um email válido".
 * Se digitar um email corretamente, irá aparecer "Seu email é válido"
+
+  
 ![imagem](img/email.png)
+
 
 
 # Projeto de CPF
@@ -45,5 +48,7 @@ Este repositório contém os projetos de validação de email e CPF desenvolvido
 * Caso deixe vazio irá aparecer um aviso em um pop-up "O campo está vazio".
 * Caso você coloque números aleatórios, a mensagem que irá aparecer é "Coloque um CPF válido".
 * Se digitar um CPF corretamente, irá aparecer "seu CPF é válido"
+
+  
 ![imagem](img/cpf.png)
 
