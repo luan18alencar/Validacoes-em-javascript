@@ -28,8 +28,27 @@ Este repositório contém os projetos de validação de email e CPF desenvolvido
   * Clicar em "ENVIAR": O resultado da validação será exibido abaixo do botão.
 
 # Projeto de email
+ 
+* O projeto email se baseia na validação de um Email, feita no Java script.
 
 ## Como funciona
-* O projeto se baseia na criação de uma validação de Email feita pelo java script, no qual não há como deixar o espaço vazio deve haver "@gmail.com" na descrição.
+* Primeiramente você deve colocar seu email.
+* Caso deixe vazio irá aparecer um aviso em um pop-up "O campo está vazio".
+* Caso você coloque letras aleatórias, a mensagem que irá aparecer é "Coloque um email válido".
+* Se digitar um email corretamente, irá aparecer "Seu email é válido"
 
-![imagem]()
+  
+![imagem](img/email.png)
+
+
+
+# Projeto de CPF
+
+* Primeiramente você deve colocar seu CPF corretamente,
+* Caso deixe vazio irá aparecer um aviso em um pop-up "O campo está vazio".
+* Caso você coloque números aleatórios, a mensagem que irá aparecer é "Coloque um CPF válido".
+* Se digitar um CPF corretamente, irá aparecer "seu CPF é válido"
+
+  
+![imagem](img/cpf.png)
+
